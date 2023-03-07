@@ -1,0 +1,7 @@
+todo
+1. Finish assembly
+2. Build command window
+3. Optimise model
+4. Ship to github
+5. Build circuit and source parts
+
